@@ -2,9 +2,7 @@
 
 **Frontend Web Developer · Coffee Lover ☕**
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Abdelrahman Fathi&style=for-the-badge" alt="Profile Views"/>
-</p>
+
 
 ## 🚀 About Me
 
